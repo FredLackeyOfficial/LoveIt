@@ -283,7 +283,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = "This is my cool site"
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["/logo-square.png"]
 
   # Header config
   [params.header]
@@ -387,11 +387,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/logo-square.png"
       # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "This is My New Hugo Site"
+      subtitle = "The Most Productive Web Apps Start Here"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links

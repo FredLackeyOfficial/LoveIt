@@ -285,7 +285,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "这是我的全新 Hugo 网站"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/logo.png"]
+  images = ["/logo-square.png"]
 
   # 页面头部导航栏配置
   [params.header]
@@ -389,7 +389,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/logo-square.png"
       # {{< version 0.2.7 changed >}} 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题 (允许 HTML 格式)
